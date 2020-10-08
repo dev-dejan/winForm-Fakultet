@@ -1,0 +1,22 @@
+C:\Users\Zoran\Desktop\Projekat\Projekat Jat Tehnika\Projekat Jat Tehnika\bin\Debug\Projekat Jat Tehnika.exe.config
+C:\Users\Zoran\Desktop\Projekat\Projekat Jat Tehnika\Projekat Jat Tehnika\bin\Debug\Projekat Jat Tehnika.exe
+C:\Users\Zoran\Desktop\Projekat\Projekat Jat Tehnika\Projekat Jat Tehnika\bin\Debug\Projekat Jat Tehnika.pdb
+C:\Users\Zoran\Desktop\Projekat\Projekat Jat Tehnika\Projekat Jat Tehnika\obj\Debug\Projekat Jat Tehnika.csprojResolveAssemblyReference.cache
+C:\Users\Zoran\Desktop\Projekat\Projekat Jat Tehnika\Projekat Jat Tehnika\obj\Debug\Projekat_Jat_Tehnika.Form1.resources
+C:\Users\Zoran\Desktop\Projekat\Projekat Jat Tehnika\Projekat Jat Tehnika\obj\Debug\Projekat_Jat_Tehnika.Properties.Resources.resources
+C:\Users\Zoran\Desktop\Projekat\Projekat Jat Tehnika\Projekat Jat Tehnika\obj\Debug\Projekat_Jat_Tehnika.Unos_novog_aviona.resources
+C:\Users\Zoran\Desktop\Projekat\Projekat Jat Tehnika\Projekat Jat Tehnika\obj\Debug\Projekat Jat Tehnika.csproj.GenerateResource.Cache
+C:\Users\Zoran\Desktop\Projekat\Projekat Jat Tehnika\Projekat Jat Tehnika\obj\Debug\Projekat Jat Tehnika.csproj.CoreCompileInputs.cache
+C:\Users\Zoran\Desktop\Projekat\Projekat Jat Tehnika\Projekat Jat Tehnika\obj\Debug\Projekat Jat Tehnika.exe
+C:\Users\Zoran\Desktop\Projekat\Projekat Jat Tehnika\Projekat Jat Tehnika\obj\Debug\Projekat Jat Tehnika.pdb
+D:\Luka\ITS\Seminarski\Projekat Alati\Projekat Jat Tehnika\Projekat Jat Tehnika\bin\Debug\Projekat Jat Tehnika.exe.config
+D:\Luka\ITS\Seminarski\Projekat Alati\Projekat Jat Tehnika\Projekat Jat Tehnika\bin\Debug\Projekat Jat Tehnika.exe
+D:\Luka\ITS\Seminarski\Projekat Alati\Projekat Jat Tehnika\Projekat Jat Tehnika\bin\Debug\Projekat Jat Tehnika.pdb
+D:\Luka\ITS\Seminarski\Projekat Alati\Projekat Jat Tehnika\Projekat Jat Tehnika\obj\Debug\Projekat Jat Tehnika.csprojAssemblyReference.cache
+D:\Luka\ITS\Seminarski\Projekat Alati\Projekat Jat Tehnika\Projekat Jat Tehnika\obj\Debug\Projekat_Jat_Tehnika.Form1.resources
+D:\Luka\ITS\Seminarski\Projekat Alati\Projekat Jat Tehnika\Projekat Jat Tehnika\obj\Debug\Projekat_Jat_Tehnika.Properties.Resources.resources
+D:\Luka\ITS\Seminarski\Projekat Alati\Projekat Jat Tehnika\Projekat Jat Tehnika\obj\Debug\Projekat_Jat_Tehnika.Unos_novog_aviona.resources
+D:\Luka\ITS\Seminarski\Projekat Alati\Projekat Jat Tehnika\Projekat Jat Tehnika\obj\Debug\Projekat Jat Tehnika.csproj.GenerateResource.cache
+D:\Luka\ITS\Seminarski\Projekat Alati\Projekat Jat Tehnika\Projekat Jat Tehnika\obj\Debug\Projekat Jat Tehnika.csproj.CoreCompileInputs.cache
+D:\Luka\ITS\Seminarski\Projekat Alati\Projekat Jat Tehnika\Projekat Jat Tehnika\obj\Debug\Projekat Jat Tehnika.exe
+D:\Luka\ITS\Seminarski\Projekat Alati\Projekat Jat Tehnika\Projekat Jat Tehnika\obj\Debug\Projekat Jat Tehnika.pdb
